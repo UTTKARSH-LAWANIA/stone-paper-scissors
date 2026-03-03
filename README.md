@@ -25,7 +25,6 @@ CSS3 – Styling and layout (Flexbox)
 
 JavaScript (Vanilla JS) – Game logic and DOM manipulation
 
-📂 Project Structure
 rock-paper-scissors/
 │
 ├── index.html      # Main HTML file
